@@ -1,2 +1,6 @@
 # Intro_workshop
-Intro to Repo and desktop
+---
+**Here it comes again**
+You know the gist:
+- [x] First 2 steps in the workshop
+- [ ] The rest of workshop
